@@ -9,8 +9,13 @@ Github e "push" e "pull" que envia o commit para o Github e para puxar o que os 
 e termos como o "branch" que são linhas paralelas de código utilizada para testar o jogo e 
 "merge" que junta o trabalho de duas ou mais pessoas.
 
-27/08 - //Game design//
+27/08 - //Game design//.
 hoje foi uma aula de game design é a area que cuida da elaboração do projeto, compreendendo seus
 niveis, puzzles, artes, animação, mecanicas, roteiros e muito mais aprendemos sobre seus 5 tipos 
 porem aprendemos so o primeiro que e game disign macânica que cuida de todo o processo criativo 
 de como o jogo sera seus elementos jogaveis, tais como objetos, atributos, ações, regras e etc.
+
+17/09/2026 - //inicio do game//.
+Hoje foi uma aula para fazer a programação do jogo fizemos somente o movimento por enquanto temos 
+os movimentos basicos como para esquerda de direita e o pulo fizemos os commit delas e reaprendemos
+a logar no git hub, git desktop,
