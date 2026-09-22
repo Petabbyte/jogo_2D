@@ -10,12 +10,18 @@ e termos como o "branch" que são linhas paralelas de código utilizada para tes
 "merge" que junta o trabalho de duas ou mais pessoas.
 
 27/08 - //Game design//.
-hoje foi uma aula de game design é a area que cuida da elaboração do projeto, compreendendo seus
+Hoje foi uma aula de game design é a area que cuida da elaboração do projeto, compreendendo seus
 niveis, puzzles, artes, animação, mecanicas, roteiros e muito mais aprendemos sobre seus 5 tipos 
 porem aprendemos so o primeiro que e game disign macânica que cuida de todo o processo criativo 
 de como o jogo sera seus elementos jogaveis, tais como objetos, atributos, ações, regras e etc.
 
 17/09/2026 - //inicio do game//.
-Hoje foi uma aula para fazer a programação do jogo fizemos somente o movimento por enquanto temos 
+Hoje foi uma aula para fazer a programação do jogo fizemos somente o movimento, por enquanto temos 
 os movimentos basicos como para esquerda de direita e o pulo fizemos os commit delas e reaprendemos
 a logar no git hub, git desktop,
+
+22/09/2026 - //continuação do game//.
+Hoje continuamos na programação basica do jogo fazendo a sua movimentação atualizando o script agora
+para o player pular ele precisa estar no chão para ele conseguir pular usando o "OnCollisionEnter2D"
+para detectar quando um objeto "rigidbody2D" esta encostando em outro ele pode ser usando quando um 
+objeto precisa estar encostando em outro eu ja fiz o commit do novo script e ele ja esta no github.
