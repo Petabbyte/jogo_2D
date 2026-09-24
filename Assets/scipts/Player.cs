@@ -4,6 +4,7 @@ public class Player : MonoBehaviour
 {
     public float speed = 5f;
     private Rigidbody2D rb;
+    public float jumpforce = 5f;
 
     private bool isGrounded = false;
     
@@ -21,7 +22,7 @@ public class Player : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded) // com o "isgrounded" na condição do if agora o player so vai pular quando a tecla space tiver precionada e quando o pleyer estiver no chao
         {
-            rb.AddForce(new Vector2(0f ,5f), ForceMode2D.Impulse); 
+            rb.AddForce(new Vector2(0f ,jumpforce), ForceMode2D.Impulse); 
         }
     }
 
