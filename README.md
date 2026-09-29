@@ -25,3 +25,11 @@ Hoje continuamos na programação basica do jogo fazendo a sua movimentação at
 para o player pular ele precisa estar no chão para ele conseguir pular usando o "OnCollisionEnter2D"
 para detectar quando um objeto "rigidbody2D" esta encostando em outro ele pode ser usando quando um 
 objeto precisa estar encostando em outro eu ja fiz o commit do novo script e ele ja esta no github.
+
+29/09/2026 - //continuação da aula//.
+hoje fizemos a base para a primeira fase do jogo colocando as plataformas e obstaculos e o Vinicios vai 
+passar a programação para a sala e eu já tinha feito anteriormente o script "Dano" E o Vinicios também nós 
+ensinou que podemos fazer uma pasta chamada "Prefabs" que são os prefabricados onde podemos colocar um 
+objeto ou obstaculo como um prefabricado e copiar e colar ele assim todos os objetos criados depois são 
+ligados a ele então caso o DEV mude algo como sprit e script todos os outro também são alterados agora a 
+fase esta quase pronta falta algumas coisas e os sprites para terminar a fase 1.
