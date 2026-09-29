@@ -13,7 +13,7 @@ public class Dano : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Dano"))
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(0);
         }
     }
 
