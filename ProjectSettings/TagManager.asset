@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Dano
+  - Door
   layers:
   - Default
   - TransparentFX
