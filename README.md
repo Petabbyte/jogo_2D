@@ -27,9 +27,16 @@ para detectar quando um objeto "rigidbody2D" esta encostando em outro ele pode s
 objeto precisa estar encostando em outro eu ja fiz o commit do novo script e ele ja esta no github.
 
 29/09/2026 - //continuação da aula//.
-hoje fizemos a base para a primeira fase do jogo colocando as plataformas e obstaculos e o Vinicios vai 
-passar a programação para a sala e eu já tinha feito anteriormente o script "Dano" E o Vinicios também nós 
+Hoje fizemos a base para a primeira fase do jogo colocando as plataformas e obstaculos e o Vinicius vai 
+passar a programação para a sala e eu já tinha feito anteriormente o script "Dano" E o Vinicius também nós 
 ensinou que podemos fazer uma pasta chamada "Prefabs" que são os prefabricados onde podemos colocar um 
 objeto ou obstaculo como um prefabricado e copiar e colar ele assim todos os objetos criados depois são 
 ligados a ele então caso o DEV mude algo como sprit e script todos os outro também são alterados agora a 
 fase esta quase pronta falta algumas coisas e os sprites para terminar a fase 1.
+
+06/10/2026 - //finalização fase 1//.
+Hoje o Vinicius esta corrigindo a prova que foi passada na ultima quinta enquanto ele faz isso nos 
+terminamos a primeira fase do jogo eu terminei ela e foi fazer os script para ir de uma fase a outra 
+enquanto ele termina depois ele passa uma atividade de adicionar uma mecanica extra no jogo eu fiz o script 
+para o player mudar de fase e vou começar a fazer a fase 2 do jogo e minha tarefa já foi vistada pelo 
+professor e não tenho tarefa que eu não fiz.   
