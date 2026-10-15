@@ -49,49 +49,8 @@ encostando no chão para pular e o dano e enquanto isso as pessoas que não fica
 fazer uma pesquisa sobre a biblioteca da untiy (using UnityEngine.SceneManagement) e depois poderia mexer no 
 jogo e eu estou fazendo a segunda fase do meu jogo.
 PESQUISA (using UnityEngine.SceneManagement)
-{
-    UnityEngine.SceneManagement
-    UnityEngine.SceneManagement é um namespace da Unity responsável pelo gerenciamento de Scenes dentro de um projeto.
-    Ele é utilizado quando um jogo precisa trabalhar com diferentes cenas, como:
-    Menu principal
-    Fases
-    Tela de Game Over
-    Tela de configurações
-    Seleção de personagem
-    Carregamento de diferentes ambientes
-    Para utilizar esse namespace em um script C#, é necessário escrever:
-    using UnityEngine.SceneManagement;
-    O que é uma Scene?
-    Uma Scene é uma parte organizada do projeto que contém elementos do jogo, como GameObjects, câmeras, luzes, ambientes e outros componentes.
-    Um jogo pode possuir várias Scenes:
-    Menu
-     ↓
-    Fase 1
-     ↓
-    Fase 2
-     ↓
-    Game Over
-    O SceneManagement fornece as ferramentas necessárias para controlar essas Scenes.
-    Principal classe: SceneManager
-    Dentro de UnityEngine.SceneManagement existe a classe SceneManager.
-    Ela é responsável por operações relacionadas às Scenes, como:
-    SceneManager.LoadScene("Fase1");
-    Esse comando solicita o carregamento da Scene chamada Fase1.
-    Outras operações incluem:
-    SceneManager.LoadSceneAsync("Fase1");
-    para carregamento assíncrono;
-    SceneManager.UnloadSceneAsync("Fase1");
-    para descarregar uma Scene;
-    SceneManager.GetActiveScene();
-    para obter a Scene atualmente ativa.
-    LoadSceneMode
-    O namespace também possui o LoadSceneMode, que determina como uma Scene será carregada.
-    Existem principalmente dois modos:
-    LoadSceneMode.Single
-    Carrega uma Scene substituindo a atual.
-    LoadSceneMode.Additive
-    Carrega uma Scene mantendo as outras Scenes carregadas.
-    Por exemplo:
-    SceneManager.LoadScene("Interface", LoadSceneMode.Additive);
-    Nesse caso, a Scene Interface é adicionada às Scenes que já estão carregadas.
-}
+
+15/10/2026 - //criando as telas//.
+Hoje o vini passou para nos fazermos mais uma parte do jogo que são as telas criamos os canvas e o painel 
+fazendo nele a tela de derrota somente criamos um botão para reiniciar o jogo so que ainda não foi feito
+um script para fazer com que ele funcione então a tela esta em branco.
