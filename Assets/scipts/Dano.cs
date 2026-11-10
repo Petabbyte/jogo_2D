@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class Dano : MonoBehaviour
 {
-    
+    public MenuScene menu;
     void Start()
     {
         
@@ -13,7 +13,7 @@ public class Dano : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Dano"))
         {
-            SceneManager.LoadScene(0);
+            menu.MostrarGameOver();
         }
     }
 

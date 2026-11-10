@@ -41,4 +41,6 @@ public class Player : MonoBehaviour
             isGrounded = false; //vai reconhecer quando o jogador deixar de encostar no chao
         }
     }
+
+
 }
