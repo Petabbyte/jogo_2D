@@ -54,3 +54,7 @@ PESQUISA (using UnityEngine.SceneManagement)
 Hoje o vini passou para nos fazermos mais uma parte do jogo que são as telas criamos os canvas e o painel 
 fazendo nele a tela de derrota somente criamos um botão para reiniciar o jogo so que ainda não foi feito
 um script para fazer com que ele funcione então a tela esta em branco.
+
+10/11/2026 - //Menus//.
+Hoje o vincius falou como a ultima aula foi a muito tempo era para recomeçarmos os scripts dos menus agora
+temos as telas de game over e a de pause 
