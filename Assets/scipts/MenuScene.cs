@@ -61,6 +61,12 @@ public class MenuScene : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     
     }
+
+    public void VoltarMenu()
+    {
+        SceneManager.LoadScene("Menu");
+        Time.timeScale = 1f;
+    }
    
     
 }
