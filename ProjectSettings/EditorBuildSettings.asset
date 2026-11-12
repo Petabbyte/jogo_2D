@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/jogo.unity
     guid: 3f877745720ffe44d9affc64d015ba8c
   - enabled: 1
-    path: Assets/Scenes/jogo.unity
+    path: Assets/Scenes/fase1.unity
     guid: 48e4afe0c7779a6428856b26e66d1110
   - enabled: 1
     path: Assets/Scenes/fase 2.unity
