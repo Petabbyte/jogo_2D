@@ -15,5 +15,10 @@ public class PassarDeFase : MonoBehaviour
         {
             SceneManager.LoadScene(2);
         }
+
+        if (collision.gameObject.CompareTag("Door2"))
+        {
+            SceneManager.LoadScene(3);
+        }
     }
 }
